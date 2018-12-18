@@ -5,15 +5,10 @@ android {
     aaptOptions {
         noCompress "webp"
     }
-    signingConfigs {
-        signing_config {
-            keyAlias 'abc'
-            keyPassword '123'
-        }
-    }
+
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.example.samplestickerapp"
+        applicationId "com.gigaworks.tech.stickerapp"
         minSdkVersion 15
         targetSdkVersion 28
         versionCode 1
