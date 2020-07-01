@@ -1,8 +1,10 @@
-# Android Stickers Apps for WhatsApp
+# PewDiePie Stickers for Android
 
-## Overview
+A WhatsApp sticker app with pewdiepie reactions.
 
-If you would like to design your own stickers for WhatsApp, you can package them in an Android app. You will need to distribute your app via the Google Play Store or another mechanism. Users who download and install your sticker app will be able to add your stickers to their WhatsApp sticker picker/tray, and start sending those stickers from within WhatsApp. A separate app is necessary and it will reside on your phone's home screen just like any other app. Stickers on WhatsApp must be legal, authorized, and acceptable. Learn more about acceptable use of our services at https://www.whatsapp.com/legal/#terms-of-service.
+Download the app for your Android device from [here](https://github.com/arch10/stickers/releases/download/v1.0/poods_v1.0.apk).
+
+<img src="poods_sticker.jpg" width="30%"/>
 
 The sample code provides a simple way for you to drop in your sticker art and build an Android app with minimal development or coding experience needed. For advanced developers looking to make richer sticker apps, refer to the section [Advanced Development](#advanced-development) below.
 
