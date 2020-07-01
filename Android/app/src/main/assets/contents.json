@@ -1,5 +1,5 @@
 {
-  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.gigaworks.tech.stickerapp",
+  "android_play_store_link": "",
   "ios_app_store_link": "",
   "sticker_packs": [
     {
@@ -185,6 +185,79 @@
         {
           "image_file": "file_5694968.webp",
           "emojis": ["😐"]
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "Dark Lord",
+      "publisher": "Archit Raj",
+      "tray_image_file": "tray_icon.png",
+      "publisher_email":"arch1824@gmail.com",
+      "image_data_version": "1.0",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "file_5694969.webp",
+          "emojis": ["\uD83D\uDE02"]
+        },
+        {
+          "image_file": "file_5694970.webp",
+          "emojis": ["\uD83D\uDE18"]
+        },
+        {
+          "image_file": "file_5694971.webp",
+          "emojis": ["👍"]
+        },
+        {
+          "image_file": "file_5694972.webp",
+          "emojis": ["\uD83D\uDC4B"]
+        },
+        {
+          "image_file": "file_5694973.webp",
+          "emojis": ["\uD83D\uDE24"]
+        },
+        {
+          "image_file": "file_5694974.webp",
+          "emojis": ["\uD83D\uDE15"]
+        },
+        {
+          "image_file": "file_5694975.webp",
+          "emojis": ["\uD83D\uDE11"]
+        },
+        {
+          "image_file": "file_5694976.webp",
+          "emojis": ["\uD83D\uDE2C"]
+        },
+        {
+          "image_file": "file_5694977.webp",
+          "emojis": ["\uD83E\uDD14"]
+        },
+        {
+          "image_file": "file_5694978.webp",
+          "emojis": ["\uD83D\uDE08"]
+        },
+        {
+          "image_file": "file_5694979.webp",
+          "emojis": ["\uD83D\uDE2D"]
+        },
+        {
+          "image_file": "file_5694980.webp",
+          "emojis": ["\uD83E\uDD28"]
+        },
+        {
+          "image_file": "file_5694981.webp",
+          "emojis": ["\uD83D\uDE28"]
+        },
+        {
+          "image_file": "file_5694982.webp",
+          "emojis": ["\uD83D\uDE4F"]
+        },
+        {
+          "image_file": "file_5694983.webp",
+          "emojis": ["\uD83D\uDE2A"]
         }
       ]
     }
