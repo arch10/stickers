@@ -9,6 +9,7 @@
       "tray_image_file": "tray_icon.png",
       "publisher_email":"arch1824@gmail.com",
       "publisher_website": "",
+      "image_data_version": "1.0",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
@@ -31,10 +32,6 @@
         {
           "image_file": "file_1326328.webp",
           "emojis": ["😓","😅"]
-        },
-        {
-          "image_file": "file_1326329.webp",
-          "emojis": ["😟","😞"]
         },
         {
           "image_file": "file_1326330.webp",
@@ -65,10 +62,6 @@
           "emojis": ["🖕"]
         },
         {
-          "image_file": "file_1326337.webp",
-          "emojis": ["😀","😁","😃"]
-        },
-        {
           "image_file": "file_1326338.webp",
           "emojis": ["🙈","😨"]
         },
@@ -85,16 +78,8 @@
           "emojis": ["😐","😑"]
         },
         {
-          "image_file": "file_1326346.webp",
-          "emojis": ["😳","😢"]
-        },
-        {
           "image_file": "file_1326347.webp",
           "emojis": ["😫"]
-        },
-        {
-          "image_file": "file_1326349.webp",
-          "emojis": ["🤔","🧐"]
         },
         {
           "image_file": "file_1326350.webp",
@@ -125,8 +110,81 @@
           "emojis": ["👍🏻"]
         },
         {
-          "image_file": "file_1326359.webp",
-          "emojis": ["😳","🤨"]
+          "image_file": "file_5694953.webp",
+          "emojis": ["\uD83D\uDC4C"]
+        },
+        {
+          "image_file": "file_5694954.webp",
+          "emojis": ["\uD83D\uDE01"]
+        },
+        {
+          "image_file": "file_5694955.webp",
+          "emojis": ["\uD83D\uDE0F"]
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "PewDiePie Reactions",
+      "publisher": "Archit Raj",
+      "tray_image_file": "tray_icon.png",
+      "publisher_email":"arch1824@gmail.com",
+      "image_data_version": "1.0",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "file_5694956.webp",
+          "emojis": ["\uD83D\uDE02"]
+        },
+        {
+          "image_file": "file_5694957.webp",
+          "emojis": ["\uD83E\uDD13"]
+        },
+        {
+          "image_file": "file_5694958.webp",
+          "emojis": ["\uD83D\uDE28","\uD83D\uDE30"]
+        },
+        {
+          "image_file": "file_5694959.webp",
+          "emojis": ["😎"]
+        },
+        {
+          "image_file": "file_5694960.webp",
+          "emojis": ["😭"]
+        },
+        {
+          "image_file": "file_5694961.webp",
+          "emojis": ["👊"]
+        },
+        {
+          "image_file": "file_5694962.webp",
+          "emojis": ["\uD83D\uDE18"]
+        },
+        {
+          "image_file": "file_5694963.webp",
+          "emojis": ["✌"]
+        },
+        {
+          "image_file": "file_5694964.webp",
+          "emojis": ["\uD83D\uDE23"]
+        },
+        {
+          "image_file": "file_5694965.webp",
+          "emojis": ["\uD83D\uDE44"]
+        },
+        {
+          "image_file": "file_5694966.webp",
+          "emojis": ["😎"]
+        },
+        {
+          "image_file": "file_5694967.webp",
+          "emojis": ["\uD83D\uDE35"]
+        },
+        {
+          "image_file": "file_5694968.webp",
+          "emojis": ["😐"]
         }
       ]
     }
