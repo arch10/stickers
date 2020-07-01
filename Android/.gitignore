@@ -8,3 +8,6 @@ obj/
 *.iml
 Gemfile.lock
 _site/
+.project
+.classpath
+.settings/
